@@ -1,0 +1,37 @@
+Lexie Zhang
+lexiezhang123@gmail.com | (1) 206-915-3319 | www.linkedin.com/in/lexiezhangzyq
+
+Education                                                                                    
+University of Washington – Foster School of Business | 3.53/4.00       Expected Graduation: Jun. 2025
+Master of Science in Information Systems (MSIS)
+Hong Kong Baptist University United International College | 3.51/4.00          Sept 2020 – Jun 2024
+Bachelor of Business Administration in Accounting
+Professional Experience                                                                      
+Tencent Holdings | Shenzhen, China                                        Jul 2023 – Sept 2023
+Summer Intern, Business Analyst 
+•	Python-Driven Analysis: Achieved an 8% expense reduction by leveraging Python for data extraction and analysis, creating pivot tables to evaluate cost and revenue across B2B product lines and forecasting future costs.
+•	Data Visualization: Enhanced decision-making by developing 10+ Tableau presentations, visualizing key financial and operational metrics such as customer growth trends, renewal rates, revenue insights, and churn analysis for B2B cybersecurity products.
+•	Operational Reporting: Improved performance reporting and strategic alignment by redesigning the logic and structure of weekly operational meetings, ensuring discussions focused on key business objectives.
+
+Cheng & Cheng Limited (Certified Public Accountants) | Hong Kong, China     Jul 2022 – Sept 2022
+Summer Intern, Audit Assistant
+•	Vouching and Substantive Testing: Performed vouching of over 1,000 entries and conducted substantive testing to ensure data accuracy and completeness, using Excel's VLOOKUP function to identify discrepancies. Verified bank reconciliation statements and journal entries for consistency, compiling over 100 bank confirmation letters.
+•	Financial Audit Documentation: Prepared and organized working papers for Accounts Receivable, Cash, and Bank Balances using Excel, ensuring accurate, logical, and comprehensive documentation.
+
+Academic Projects                                                                           
+FlameVision: Deep Learning-Based Wildfire Monitoring and Detection           Jan 2025 – Feb 2025
+•	Deep Learning for Wildfire Detection: Developed an AI-driven Wildfire Detection System that identifies the presence of wildfires in images and pinpoints their locations using deep learning techniques.
+•	Computer Vision: Utilized MobileNetV2 for classification (77% accuracy) and YOLOv8 for object detection (56.3% mAP), processing and augmenting a dataset of 4,500+ images while converting Pascal VOC XML annotations to YOLO format for optimized model performance.
+How Effective Financial and Tax Incentives on Corporate Green Investments     Oct 2023 – Apr 2024
+•	Data Analysis: Analyzed 510 energy companies in China’s A-share market (2011-2021) using a two-way fixed effects model, revealing positive effects of financial subsidies and tax incentives on green investment.
+
+Leadership and Community Engagement                                                   
+United Innovation Charity Club | Vice Director of Public Relations              Sept 2020 – May 2021
+•	Leadership and Training: Recruited and trained 30+ members on developing comprehensive proposals and identifying pertinent social issues using open data sources.
+•	Event Management and Execution: Spearheaded 4 large-scale events within just two years, with a total attendance of over 800 participants: e.g., presiding over the highly acclaimed 13th Zhuhai College Students Charity Forum.
+
+Skills & Certificates                                                                     
+ 
+•	Business Analytics Skills: Python (Pandas, NumPy, Matplotlib), MySQL, Tableau, PowerBI
+•	Machine Learning Skills: Decision Tree, Random Forest, LightGBM, K-means, Hierarchical Clustering, Convolutional Neural Network (CNN) 
+•	Other Skills: Office PowerPoint® 2016/Office Word® 2016 Expert/Office Excel® 2016 Expert
